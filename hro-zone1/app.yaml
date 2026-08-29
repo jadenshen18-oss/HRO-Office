@@ -1,0 +1,8 @@
+name: HRO-Zone1
+description: "A Streamlit dashboard: live person detection with camera stream, and real-time power monitoring + on/off control for the Office Ceiling Fan (Tapo P115 smart plug)."
+ports: []
+bricks:
+- arduino:streamlit_ui: {}
+- arduino:video_image_classification:
+    model: person-classification
+icon: 🖥️
