@@ -1,4 +1,4 @@
-# 🖥️ HRO-Zone1
+# 🖥️ HRO-office
 Home Resource Orchestrator is an Arduino UNO Q-based smart home monitoring system designed to reduce unnecessary household energy and resource consumption while detecting potentially dangerous situations such as unattended faucets, running toilets, and kitchen appliances left operating in empty rooms.
 
 #### What's the difference between this project and traditional smart home systems?
